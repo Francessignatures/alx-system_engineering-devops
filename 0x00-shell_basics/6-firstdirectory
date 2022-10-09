@@ -1,2 +1,2 @@
-#!/bin/bbsh
+#!/bin/bash
 mkdir /tmp/first directory/
